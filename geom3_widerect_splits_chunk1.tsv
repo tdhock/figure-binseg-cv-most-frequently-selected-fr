@@ -1,0 +1,201 @@
+ymin	ymax	clickSelects	PANEL	group
+86.5	87.5	50% validation 87	1	87
+5.5	6.5	50% validation 6	1	57
+27.5	28.5	50% validation 28	1	22
+21.5	22.5	50% validation 22	1	16
+22.5	23.5	50% validation 23	1	17
+68.5	69.5	50% validation 69	1	67
+6.5	7.5	50% validation 7	1	68
+90.5	91.5	50% validation 91	1	92
+23.5	24.5	50% validation 24	1	18
+69.5	70.5	50% validation 70	1	69
+92.5	93.5	50% validation 93	1	94
+70.5	71.5	50% validation 71	1	70
+7.5	8.5	50% validation 8	1	79
+24.5	25.5	50% validation 25	1	19
+28.5	29.5	50% validation 29	1	23
+29.5	30.5	50% validation 30	1	25
+8.5	9.5	50% validation 9	1	90
+9.5	10.5	50% validation 10	1	2
+30.5	31.5	50% validation 31	1	26
+31.5	32.5	50% validation 32	1	27
+0.5	1.5	50% validation 1	1	1
+73.5	74.5	50% validation 74	1	73
+32.5	33.5	50% validation 33	1	28
+10.5	11.5	50% validation 11	1	4
+71.5	72.5	50% validation 72	1	71
+11.5	12.5	50% validation 12	1	5
+33.5	34.5	50% validation 34	1	29
+85.5	86.5	50% validation 86	1	86
+34.5	35.5	50% validation 35	1	30
+35.5	36.5	50% validation 36	1	31
+36.5	37.5	50% validation 37	1	32
+37.5	38.5	50% validation 38	1	33
+58.5	59.5	50% validation 59	1	56
+59.5	60.5	50% validation 60	1	58
+38.5	39.5	50% validation 39	1	34
+39.5	40.5	50% validation 40	1	36
+40.5	41.5	50% validation 41	1	37
+91.5	92.5	50% validation 92	1	93
+41.5	42.5	50% validation 42	1	38
+42.5	43.5	50% validation 43	1	39
+43.5	44.5	50% validation 44	1	40
+44.5	45.5	50% validation 45	1	41
+12.5	13.5	50% validation 13	1	6
+98.5	99.5	50% validation 99	1	100
+60.5	61.5	50% validation 61	1	59
+13.5	14.5	50% validation 14	1	7
+1.5	2.5	50% validation 2	1	13
+45.5	46.5	50% validation 46	1	42
+74.5	75.5	50% validation 75	1	74
+2.5	3.5	50% validation 3	1	24
+46.5	47.5	50% validation 47	1	43
+75.5	76.5	50% validation 76	1	75
+96.5	97.5	50% validation 97	1	98
+87.5	88.5	50% validation 88	1	88
+61.5	62.5	50% validation 62	1	60
+94.5	95.5	50% validation 95	1	96
+47.5	48.5	50% validation 48	1	44
+48.5	49.5	50% validation 49	1	45
+14.5	15.5	50% validation 15	1	8
+15.5	16.5	50% validation 16	1	9
+16.5	17.5	50% validation 17	1	10
+62.5	63.5	50% validation 63	1	61
+63.5	64.5	50% validation 64	1	62
+25.5	26.5	50% validation 26	1	20
+64.5	65.5	50% validation 65	1	63
+76.5	77.5	50% validation 77	1	76
+49.5	50.5	50% validation 50	1	47
+17.5	18.5	50% validation 18	1	11
+95.5	96.5	50% validation 96	1	97
+50.5	51.5	50% validation 51	1	48
+51.5	52.5	50% validation 52	1	49
+77.5	78.5	50% validation 78	1	77
+52.5	53.5	50% validation 53	1	50
+18.5	19.5	50% validation 19	1	12
+72.5	73.5	50% validation 73	1	72
+53.5	54.5	50% validation 54	1	51
+3.5	4.5	50% validation 4	1	35
+54.5	55.5	50% validation 55	1	52
+4.5	5.5	50% validation 5	1	46
+97.5	98.5	50% validation 98	1	99
+65.5	66.5	50% validation 66	1	64
+88.5	89.5	50% validation 89	1	89
+78.5	79.5	50% validation 79	1	78
+93.5	94.5	50% validation 94	1	95
+79.5	80.5	50% validation 80	1	80
+80.5	81.5	50% validation 81	1	81
+19.5	20.5	50% validation 20	1	14
+20.5	21.5	50% validation 21	1	15
+55.5	56.5	50% validation 56	1	53
+81.5	82.5	50% validation 82	1	82
+66.5	67.5	50% validation 67	1	65
+56.5	57.5	50% validation 57	1	54
+26.5	27.5	50% validation 27	1	21
+82.5	83.5	50% validation 83	1	83
+57.5	58.5	50% validation 58	1	55
+99.5	100.5	50% validation 100	1	3
+67.5	68.5	50% validation 68	1	66
+84.5	85.5	50% validation 85	1	85
+89.5	90.5	50% validation 90	1	91
+83.5	84.5	50% validation 84	1	84
+31.5	32.5	VC à 2 blocs 32	2	127
+32.5	33.5	VC à 2 blocs 33	2	128
+84.5	85.5	VC à 2 blocs 85	2	185
+76.5	77.5	VC à 2 blocs 77	2	176
+3.5	4.5	VC à 2 blocs 4	2	135
+33.5	34.5	VC à 2 blocs 34	2	129
+27.5	28.5	VC à 2 blocs 28	2	122
+77.5	78.5	VC à 2 blocs 78	2	177
+34.5	35.5	VC à 2 blocs 35	2	130
+4.5	5.5	VC à 2 blocs 5	2	146
+35.5	36.5	VC à 2 blocs 36	2	131
+5.5	6.5	VC à 2 blocs 6	2	157
+36.5	37.5	VC à 2 blocs 37	2	132
+90.5	91.5	VC à 2 blocs 91	2	192
+37.5	38.5	VC à 2 blocs 38	2	133
+38.5	39.5	VC à 2 blocs 39	2	134
+6.5	7.5	VC à 2 blocs 7	2	168
+91.5	92.5	VC à 2 blocs 92	2	193
+78.5	79.5	VC à 2 blocs 79	2	178
+97.5	98.5	VC à 2 blocs 98	2	199
+39.5	40.5	VC à 2 blocs 40	2	136
+96.5	97.5	VC à 2 blocs 97	2	198
+70.5	71.5	VC à 2 blocs 71	2	170
+7.5	8.5	VC à 2 blocs 8	2	179
+40.5	41.5	VC à 2 blocs 41	2	137
+8.5	9.5	VC à 2 blocs 9	2	190
+41.5	42.5	VC à 2 blocs 42	2	138
+88.5	89.5	VC à 2 blocs 89	2	189
+28.5	29.5	VC à 2 blocs 29	2	123
+42.5	43.5	VC à 2 blocs 43	2	139
+43.5	44.5	VC à 2 blocs 44	2	140
+71.5	72.5	VC à 2 blocs 72	2	171
+94.5	95.5	VC à 2 blocs 95	2	196
+72.5	73.5	VC à 2 blocs 73	2	172
+9.5	10.5	VC à 2 blocs 10	2	102
+44.5	45.5	VC à 2 blocs 45	2	141
+45.5	46.5	VC à 2 blocs 46	2	142
+10.5	11.5	VC à 2 blocs 11	2	104
+29.5	30.5	VC à 2 blocs 30	2	125
+46.5	47.5	VC à 2 blocs 47	2	143
+47.5	48.5	VC à 2 blocs 48	2	144
+48.5	49.5	VC à 2 blocs 49	2	145
+79.5	80.5	VC à 2 blocs 80	2	180
+49.5	50.5	VC à 2 blocs 50	2	147
+50.5	51.5	VC à 2 blocs 51	2	148
+11.5	12.5	VC à 2 blocs 12	2	105
+51.5	52.5	VC à 2 blocs 52	2	149
+12.5	13.5	VC à 2 blocs 13	2	106
+13.5	14.5	VC à 2 blocs 14	2	107
+30.5	31.5	VC à 2 blocs 31	2	126
+14.5	15.5	VC à 2 blocs 15	2	108
+73.5	74.5	VC à 2 blocs 74	2	173
+80.5	81.5	VC à 2 blocs 81	2	181
+52.5	53.5	VC à 2 blocs 53	2	150
+95.5	96.5	VC à 2 blocs 96	2	197
+0.5	1.5	VC à 2 blocs 1	2	101
+15.5	16.5	VC à 2 blocs 16	2	109
+53.5	54.5	VC à 2 blocs 54	2	151
+74.5	75.5	VC à 2 blocs 75	2	174
+92.5	93.5	VC à 2 blocs 93	2	194
+54.5	55.5	VC à 2 blocs 55	2	152
+55.5	56.5	VC à 2 blocs 56	2	153
+56.5	57.5	VC à 2 blocs 57	2	154
+57.5	58.5	VC à 2 blocs 58	2	155
+16.5	17.5	VC à 2 blocs 17	2	110
+81.5	82.5	VC à 2 blocs 82	2	182
+58.5	59.5	VC à 2 blocs 59	2	156
+89.5	90.5	VC à 2 blocs 90	2	191
+17.5	18.5	VC à 2 blocs 18	2	111
+1.5	2.5	VC à 2 blocs 2	2	113
+98.5	99.5	VC à 2 blocs 99	2	200
+59.5	60.5	VC à 2 blocs 60	2	158
+60.5	61.5	VC à 2 blocs 61	2	159
+18.5	19.5	VC à 2 blocs 19	2	112
+61.5	62.5	VC à 2 blocs 62	2	160
+62.5	63.5	VC à 2 blocs 63	2	161
+93.5	94.5	VC à 2 blocs 94	2	195
+75.5	76.5	VC à 2 blocs 76	2	175
+2.5	3.5	VC à 2 blocs 3	2	124
+19.5	20.5	VC à 2 blocs 20	2	114
+63.5	64.5	VC à 2 blocs 64	2	162
+20.5	21.5	VC à 2 blocs 21	2	115
+85.5	86.5	VC à 2 blocs 86	2	186
+21.5	22.5	VC à 2 blocs 22	2	116
+64.5	65.5	VC à 2 blocs 65	2	163
+22.5	23.5	VC à 2 blocs 23	2	117
+86.5	87.5	VC à 2 blocs 87	2	187
+23.5	24.5	VC à 2 blocs 24	2	118
+82.5	83.5	VC à 2 blocs 83	2	183
+65.5	66.5	VC à 2 blocs 66	2	164
+66.5	67.5	VC à 2 blocs 67	2	165
+83.5	84.5	VC à 2 blocs 84	2	184
+24.5	25.5	VC à 2 blocs 25	2	119
+67.5	68.5	VC à 2 blocs 68	2	166
+68.5	69.5	VC à 2 blocs 69	2	167
+25.5	26.5	VC à 2 blocs 26	2	120
+99.5	100.5	VC à 2 blocs 100	2	103
+87.5	88.5	VC à 2 blocs 88	2	188
+69.5	70.5	VC à 2 blocs 70	2	169
+26.5	27.5	VC à 2 blocs 27	2	121
